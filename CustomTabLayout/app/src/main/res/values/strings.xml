@@ -1,6 +1,6 @@
 <resources>
-    <string name="app_name">CustomTabLayout</string>
-    <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="app_name">好多课</string>
+    <string name="title_home">首页</string>
+    <string name="title_dashboard">学习</string>
+    <string name="title_notifications">通知</string>
 </resources>
